@@ -1,4 +1,10 @@
-To run the AID example please use the following command
+Step1. Clone the github repo
+
+https://github.com/raminmh/liquid_time_constant_networks
+
+Step 2. Put all the files inside the experiments_with_ltcs folder 
+
+Step 3. To run the AID example please use the following command
 
 python3 ModelParamEstAPMealTime.py --model ltc
 
