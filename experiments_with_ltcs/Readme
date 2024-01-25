@@ -1,0 +1,44 @@
+To run the AID example please use the following command
+
+python3 ModelParamEstAPMealTime.py --model ltc
+
+python3 ModelParamEstAPMealTime.py --model ctrnn
+
+python3 ModelParamEstAPMealTime.py --model node
+
+To run the Lotka Volterra example please use the following command
+
+python3 ModelEstLOTKA.py --model ltc
+
+python3 ModelEstLOTKA.py --model ctrnn
+
+python3 ModelEstLOTKA.py --model node
+
+To run lorenz system example please use the following command
+
+python3 ModelEstLorenz.py --model ltc
+
+python3 ModelEstLorenz.py --model ctrnn
+
+python3 ModelEstLorenz.py --model node
+
+
+To run F8 cruiser system example please use the following command
+
+python3 ModelEstF8.py --model ltc
+
+python3 ModelEstF8.py --model ctrnn
+
+python3 ModelEstF8.py --model node
+
+To run ppathogenic attack system example please use the following command
+
+python3 ModelEstPath.py --model ltc
+
+python3 ModelEstPath.py --model ctrnn
+
+python3 ModelEstPath.py --model node
+
+
+
+
